@@ -1,0 +1,25 @@
+# Bin and Obj directories
+bin/
+obj/
+
+# NuGet packages
+packages/
+
+# User-specific files
+*.user
+*.suo
+*.sln.docstates
+
+# Build output files
+*.pdb
+*.dll
+*.exe
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Visual Studio specific files
+.vs/
+.vscode/
+*.sln.ide
